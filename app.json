@@ -1,0 +1,26 @@
+{
+  "id": "f315272d-c00e-476a-8f6d-a8340b1239b6",
+  "name": "External Timesheet",
+  "publisher": "",
+  "version": "1.0.0.0",
+  "contextSensitiveHelpUrl": "https://www.dynamics365.work/redmine/login",
+  "brief": "",
+  "description": "",
+  
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+        "from": 1000000,
+        "to": 7000000
+      }
+    ],
+    "runtime": "8.0",
+    "features": ["TranslationFile"],
+    "resourceExposurePolicy": {
+      "allowDownloadingSource": false
+    }
+
+}

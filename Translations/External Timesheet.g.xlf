@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="External Timesheet">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1443011032 - Field 2500892784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Header - Field Created Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1443011032 - Field 2387552161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimesheetId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Header - Field TimesheetId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 765772952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field Day - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 1333289741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hours</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field Hours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 3123372377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field Line No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 2973329650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tasks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field Tasks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 3630200214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field Time in - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 1042908837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field Time out - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 2491337601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>timesheetId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field timesheetId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 1803996439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Week No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field Week No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 872738847 - Field 2261521839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WorkDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IBB TimeSheet Line - Field WorkDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1443011032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External TimeSheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1443011032 - Control 2500892784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header - Control Created Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1443011032 - Control 2387552161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheet Employee Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header - Control TimesheetId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1443011032 - Control 2387552161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheet Employee Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header - Control TimesheetId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2083178016 - Property 3446740159" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheetHeader</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header Api - Property EntityCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 2083178016 - Property 631549417" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheetHeaders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header Api - Property EntitySetCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 2083178016 - Control 1414911016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header Api - Control createdDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2083178016 - Control 2491337601 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheet Employee Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header Api - Control timesheetId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2083178016 - Control 2491337601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheet Employee Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Header Api - Control timesheetId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 872738847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External TimeSheet Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 872738847 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Line - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 872738847 - Control 765772952 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Line - Control Day - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 872738847 - Control 1333289741 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hours</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Line - Control Hours - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 872738847 - Control 2973329650 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tasks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Line - Control Tasks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 872738847 - Control 3630200214 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Line - Control Time in - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 872738847 - Control 1042908837 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Line - Control Time out - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 872738847 - Control 4135708453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Week No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Line - Control Week No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Property 3446740159" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheetLine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Property EntityCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Property 631549417" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheetLines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Property EntitySetCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Control 895206272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Control date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Control 2468692013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hours</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Control hours - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Control 3524800225 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Control lineno - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Control 1405812242 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tasks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Control tasks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Control 1411328406 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Control timein - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Control 1227446949 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time out</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Control timeout - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Control 814348465 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Control way - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602097394 - Control 3487905935 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Week No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet Lines Api - Control weekNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1419846963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External TimeSheet List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1419846963 - Control 2500892784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet List - Control Created Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1419846963 - Control 2380155633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheet Employee Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet List - Control TimeSheet Employee Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1419846963 - Control 2380155633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TimeSheet Employee Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IBB TimeSheet List - Control TimeSheet Employee Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1121454671 - Action 1539678941 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>TimeSheet List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBBusinessManagerExt - Action IBBMyAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1121454671 - Action 1539678941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>External TimeSheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBBusinessManagerExt - Action IBBMyAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1121454671 - Action 4132791230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>External TimeSheet List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IBBBusinessManagerExt - Action IBBBrand - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
